@@ -17,7 +17,7 @@ pandas
 os
 matplotlib.pyplot
 Seaborn
-sklearn.linear_model import LinearRegression
+sklearn.linear_model
 sklearn.metrics
 sklearn.model_selection
 
